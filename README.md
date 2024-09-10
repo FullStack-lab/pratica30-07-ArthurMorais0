@@ -506,3 +506,5 @@ O arquivo `Navbar.css` define o estilo para o componente de navegação, incluin
 - .nav-logo: Define o estilo do logo, incluindo a fonte, tamanho e peso.
 - .nav-menu: Estiliza a lista do menu de navegação, alinhando os itens e removendo os marcadores da lista.
 - .nav-content: Aplica estilos adicionais ao item de menu "Content", incluindo bordas arredondadas e um fundo branco.
+
+Materiais: https://drive.google.com/drive/folders/1Bwp0rV9L4cGtX05WJ3MfIER9_Fq2TJjh?usp=sharing
